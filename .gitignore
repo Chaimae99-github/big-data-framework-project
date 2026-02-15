@@ -1,0 +1,24 @@
+# Data folders
+data/
+raw/
+silver/
+
+# Hadoop volumes
+hadoop_namenode/
+hadoop_datanode/
+hadoop_historyserver/
+
+# Postgres
+postgres_gold_data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+logs.txt
+
+# OS
+.DS_Store
+Thumbs.db
